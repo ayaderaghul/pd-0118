@@ -4,27 +4,25 @@
 (plot-new-window? #t)
 
 (provide (all-defined-out))
-
-;; todo
-;; mutate that makes sense
-;; delta into repeated game
+;;todo
+;; markov automaton
 
 (define ACTION# 2)
 (define ACTIONS (list 'C 'D))
 
-(struct automaton (payoff probability) #:transparent)
+(struct automaton (payoff initial cc cd dc dd) #:transparent)
 
-(define C (automaton 0 1))
-(define D (automaton 0 0))
-(define C1 (automaton 0 0.1))
-(define C2 (automaton 0 0.2))
-(define C3 (automaton 0 0.3))
-(define C4 (automaton 0 0.4))
-(define C5 (automaton 0 0.5))
-(define C6 (automaton 0 0.6))
-(define C7 (automaton 0 0.7))
-(define C8 (automaton 0 0.8))
-(define C9 (automaton 0 0.9))
+(define C (automaton 0 1 1  1 1 1))
+(define D (automaton 0 0 0  0 0 0))
+(define C1 (automaton 0 0.1  0.1 0.1 0.1 0.1))
+(define C2 (automaton 0 0.2  0.2 0.2 0.2 0.2))
+(define C3 (automaton 0 0.3  0.3 0.3 0.3 0.3))
+(define C4 (automaton 0 0.4  0.4 0.4 0.4 0.4))
+(define C5 (automaton 0 0.5  0.5 0.5 0.5 0.5))
+(define C6 (automaton 0 0.6  0.6 0.6 0.6 0.6))
+(define C7 (automaton 0 0.7  0.7 0.7 0.7 0.7))
+(define C8 (automaton 0 0.8  0.8 0.8 0.8 0.8))
+(define C9 (automaton 0 0.9  0.9 0.9 0.9 0.9))
 
 (define (randomise probability)
   (define r (random))
@@ -38,18 +36,6 @@
    (list (cons 3 3) (cons 0 4))
    (list (cons 4 0) (cons 1 1))))
 
-(define (interact au1 au2)
-  (match-define (list p1 p2)
-    (list (automaton-probability au1)
-          (automaton-probability au2)))
-  (match-define (list a1 a2)
-    (list (randomise p1)
-          (randomise p2)))
-  (list
-   (list-ref
-    (list-ref PAYOFF-TABLE a1)
-    a2)
-   (cons au1 au2)))
 
 (define (payoff action1 action2)
   (list-ref
@@ -57,26 +43,81 @@
    action2))
 
 (define (make-random-automaton)
-  (automaton 0 (random)))
-  
-(define (interact-r au1 au2 rounds)
-  (match-define (cons prob1 prob2)
-    (cons
-     (automaton-probability au1)
-     (automaton-probability au2)))
-  (define-values (p1 p2)
-    (for/fold ([payoff1 (automaton-payoff au1)]
-               [payoff2 (automaton-payoff au2)]
-               )
+  (automaton 0 (random) (random) (random) (random) (random)))
+
+
+
+(define (interact-d au1 au2 rounds delta)
+  (match-define (automaton pay1 init1 cc1 cd1 dc1 dd1) au1)
+  (match-define (automaton pay2 init2 cc2 cd2 dc2 dd2) au2)
+  (define (what-next? action1 action2)
+    (if
+     (zero? action1)
+     (if (zero? action2) (cons cc1 cc2) (cons cd1 cd2))
+     (if (zero? action2) (cons dc1 dc2) (cons dd1 dd2))))
+  (define-values (next1 next2 p1 p2 results)
+    (for/fold (
+               [current1 init1]
+               [current2 init2]
+               [payoff1 pay1]
+               [payoff2 pay2]
+               [round-results '()])
               ([_ (in-range rounds)])
+      ; #:final (> (random) delta)
       (match-define (list a1 a2)
-        (list (randomise prob1) (randomise prob2)))
-      (match-define (cons pay1 pay2) (payoff a1 a2))
-      (values (+ pay1 payoff1)
-              (+ pay2 payoff2))))
+        (list (randomise current1) (randomise current2)))
+      (match-define (cons n1 n2) (what-next? a1 a2))
+      (match-define (cons pa1 pa2) (payoff a1 a2))
+      (values n1 n2
+              (+ payoff1 (* pa1 (expt delta _)))
+              (+ payoff2 (* pa2 (expt delta _)))
+              (cons (cons pa1 pa2) round-results)
+              )))
+  (values results
+   (automaton p1 init1 cc1 cd1 dc1 dd1)
+   (automaton p2 init2 cc2 cd2 dc2 dd2)))
+
+(define (interact au1 au2 rounds delta)
+  (match-define (automaton pay1 init1 cc1 cd1 dc1 dd1) au1)
+  (match-define (automaton pay2 init2 cc2 cd2 dc2 dd2) au2)
+  (define (what-next? action1 action2)
+    (if
+     (zero? action1)
+     (if (zero? action2) (cons cc1 cc2) (cons cd1 cd2))
+     (if (zero? action2) (cons dc1 dc2) (cons dd1 dd2))))
+  (define-values (next1 next2 p1 p2 results)
+    (for/fold (
+               [current1 init1]
+               [current2 init2]
+               [payoff1 pay1]
+               [payoff2 pay2]
+               [round-results '()])
+              ([_ (in-range rounds)])
+      ; #:final (> (random) delta)
+      (match-define (list a1 a2)
+        (list (randomise current1) (randomise current2)))
+      (match-define (cons n1 n2) (what-next? a1 a2))
+      (match-define (cons pa1 pa2) (payoff a1 a2))
+      (values n1 n2
+              (+ payoff1 (* pa1 (expt delta _)))
+              (+ payoff2 (* pa2 (expt delta _)))
+              (cons (cons pa1 pa2) round-results)
+              )))
   (values
-   (automaton p1 prob1)
-   (automaton p2 prob2)))
+   (automaton p1 init1 cc1 cd1 dc1 dd1)
+   (automaton p2 init2 cc2 cd2 dc2 dd2)))
+
+
+(define (mutate auto)
+  (match-define (automaton pay initial cc cd dc dd) auto)
+  (define r (random 5))
+  (cond
+    [(zero? r) (automaton pay (+ initial 0.1) cc cd dc dd)]
+    [(= r 1) (automaton pay initial (+ cc 0.1) cd dc dd)]
+    [(= r 2) (automaton pay initial cc (+ cd 0.1) dc dd)]
+    [(= r 3) (automaton pay initial cc cd (+ dc 0.1) dd)]
+    [(= r 4) (automaton pay initial cc cd dc (+ dd 0.1))]))
+
 
 
 (define (build-random-population n)
@@ -86,14 +127,14 @@
   (for/list
       ([auto population])
     (automaton-payoff auto)))
-(define (match-population population rounds)
+(define (match-population population rounds delta)
   ;(population-reset population)
   (for
       ([i (in-range 0 (- (vector-length population) 1) 2)])
     (define auto1 (vector-ref population i))
     (define auto2 (vector-ref population (+ i 1)))
     (define-values (a1 a2)
-      (interact-r auto1 auto2 rounds))
+      (interact auto1 auto2 rounds delta))
     (vector-set! population i a1)
     (vector-set! population (+ i 1) a2))
   population)
@@ -137,8 +178,8 @@
   (shuffle-vector population))
 
 (define (reset a)
-  (match-define (automaton pay prob) a)
-  (automaton 0 prob))
+  (match-define (automaton pay initial cc cd dc dd) a)
+  (automaton 0 initial cc cd dc dd))
 
 (define (population-reset population)
   (for ([auto population]
@@ -148,17 +189,18 @@
 (define (average lst)
   (exact->inexact (/ (sum lst) (length lst))))
 
-(define (evolve population cycles speed rounds)
+(define (evolve population cycles speed rounds delta)
   (cond
     [(zero? cycles) (list population)]
     [else
-     (define p2 (match-population population rounds))
+     (define p2 (match-population population rounds delta))
      (define pp (population-payoffs p2))
      (define p3 (regenerate p2 speed))
-     (define p4 (vector-set! p3 0 (make-random-automaton)))
+     (define auto (vector-ref p3 0))
+     (define p4 (vector-set! p3 0 (mutate auto)))
      (cons (average pp)
            (evolve (vector-map reset p3) (- cycles 1)
-                   speed rounds))]))
+                   speed rounds delta))]))
 
 (define (population-mean->lines data)
   (define coors
@@ -167,9 +209,13 @@
       (list n d)))
   (lines coors))
 
-(define (plot-mean data rounds)
-  (define reward (* 3 rounds))
-  (define punishment (* 1 rounds))
+(define (compound d r)
+  (foldl (lambda (n a) (+ a (expt d n))) 1 (build-list (- r 1) add1)))
+
+
+(define (plot-mean data delta rounds)
+  (define reward (* 3 (compound delta rounds)))
+  (define punishment (* 1 (compound delta rounds)))
   (define reward-line
     (function (lambda (x) reward) #:color "blue"))
   (define punishment-line
@@ -178,3 +224,14 @@
               (population-mean->lines data))
         #:y-min 0 #:y-max (+ 5 reward) #:width 1200 #:height 800))
 
+
+(define (scan population)
+  (define p (vector->list population))
+  (foldl
+   (lambda (au h)
+     (hash-update h au add1 0))
+   (hash)
+   p))
+
+(define (round3 n)
+  (/ (round (* n 1000)) 1000))
