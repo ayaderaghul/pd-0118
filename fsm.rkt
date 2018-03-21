@@ -42,8 +42,15 @@
    (list-ref PAYOFF-TABLE action1)
    action2))
 
+(define (round4 n)
+  (/ (round (* n 10000)) 10000))
+
 (define (make-random-automaton)
-  (automaton 0 (random) (random) (random) (random) (random)))
+  (automaton 0 (round4 (random))
+             (round4 (random))
+             (round4 (random))
+             (round4 (random))
+             (round4 (random))))
 
 
 
@@ -232,6 +239,3 @@
      (hash-update h au add1 0))
    (hash)
    p))
-
-(define (round3 n)
-  (/ (round (* n 1000)) 1000))
