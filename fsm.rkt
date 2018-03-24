@@ -45,6 +45,22 @@
 (define (round4 n)
   (/ (round (* n 10000)) 10000))
 
+(define (%->manner n)
+  (cond
+   [(<= n 0.3) 'D]
+   [(<= n 0.7) 'N]
+   [else 'C]))
+
+(define (convert au)
+  (match-define (automaton payoff init cc cd dc dd) au)
+  (automaton 0 0
+             (%->manner cc)
+             (%->manner cd)
+             (%->manner dc)
+             (%->manner dd)))
+(define (convert-population p)
+  (vector-map convert p))
+
 (define (make-random-automaton)
   (automaton 0 (round4 (random))
              (round4 (random))
@@ -83,6 +99,37 @@
   (values results
    (automaton p1 init1 cc1 cd1 dc1 dd1)
    (automaton p2 init2 cc2 cd2 dc2 dd2)))
+
+(define (interact-ds au1 au2 rounds delta)
+  (match-define (automaton pay1 init1 cc1 cd1 dc1 dd1) au1)
+  (match-define (automaton pay2 init2 cc2 cd2 dc2 dd2) au2)
+  (define (what-next? action1 action2)
+    (if
+     (zero? action1)
+     (if (zero? action2) (cons cc1 cc2) (cons cd1 cd2))
+     (if (zero? action2) (cons dc1 dc2) (cons dd1 dd2))))
+  (define-values (next1 next2 p1 p2 results)
+    (for/fold (
+               [current1 init1]
+               [current2 init2]
+               [payoff1 pay1]
+               [payoff2 pay2]
+               [round-results '()])
+              ([_ (in-range rounds)])
+      ; #:final (> (random) delta)
+      (match-define (list a1 a2)
+        (list (randomise current1) (randomise current2)))
+      (match-define (cons n1 n2) (what-next? a1 a2))
+      (match-define (cons pa1 pa2) (payoff a1 a2))
+      (values n1 n2
+              (+ payoff1 (* pa1 (expt delta _)))
+              (+ payoff2 (* pa2 (expt delta _)))
+              (cons (cons pa1 pa2) round-results)
+              )))
+  (values (take results 20)
+   (automaton p1 init1 cc1 cd1 dc1 dd1)
+   (automaton p2 init2 cc2 cd2 dc2 dd2)))
+
 
 (define (interact au1 au2 rounds delta)
   (match-define (automaton pay1 init1 cc1 cd1 dc1 dd1) au1)
@@ -239,3 +286,9 @@
      (hash-update h au add1 0))
    (hash)
    p))
+
+(define (sort-population p)
+ (sort (hash->list (scan (convert-population p)))
+       > #:key cdr))
+                   
+  
