@@ -14,6 +14,10 @@
 
 (define C (automaton 0 1 1  1 1 1))
 (define D (automaton 0 0 0  0 0 0))
+(define TFT (automaton 0 1  1 0 1 0))
+(define GT (automaton 0 1  1 0 0 0))
+(define P (automaton 0 0  0 1 0 1))
+
 (define C1 (automaton 0 0.1  0.1 0.1 0.1 0.1))
 (define C2 (automaton 0 0.2  0.2 0.2 0.2 0.2))
 (define C3 (automaton 0 0.3  0.3 0.3 0.3 0.3))
@@ -43,7 +47,7 @@
    action2))
 
 (define (round4 n)
-  (/ (round (* n 10000)) 10000))
+  (/ (round (* n 10)) 10))
 
 (define (%->manner n)
   (cond
@@ -268,8 +272,8 @@
 
 
 (define (plot-mean data delta rounds)
-  (define reward (* 3 (compound delta rounds)))
-  (define punishment (* 1 (compound delta rounds)))
+  (define reward (* 4 (compound delta rounds)))
+  (define punishment (* 0 (compound delta rounds)))
   (define reward-line
     (function (lambda (x) reward) #:color "blue"))
   (define punishment-line
@@ -290,5 +294,6 @@
 (define (sort-population p)
  (sort (hash->list (scan (convert-population p)))
        > #:key cdr))
-                   
+
+
   
