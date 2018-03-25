@@ -16,7 +16,7 @@
 (define D (automaton 0 0 0  0 0 0))
 (define TFT (automaton 0 1  1 0 1 0))
 (define GT (automaton 0 1  1 0 0 0))
-(define P (automaton 0 0  1 0 0 1))
+(define P (automaton 0 0  0 1 0 1))
 
 (define C1 (automaton 0 0.1  0.1 0.1 0.1 0.1))
 (define C2 (automaton 0 0.2  0.2 0.2 0.2 0.2))
@@ -170,11 +170,11 @@
   (match-define (automaton pay initial cc cd dc dd) auto)
   (define r (random 5))
   (cond
-    [(zero? r) (automaton pay (+ initial 0.1) cc cd dc dd)]
-    [(= r 1) (automaton pay initial (+ cc 0.1) cd dc dd)]
-    [(= r 2) (automaton pay initial cc (+ cd 0.1) dc dd)]
-    [(= r 3) (automaton pay initial cc cd (+ dc 0.1) dd)]
-    [(= r 4) (automaton pay initial cc cd dc (+ dd 0.1))]))
+    [(zero? r) (automaton pay (+ initial 0.5) cc cd dc dd)]
+    [(= r 1) (automaton pay initial (+ cc 0.5) cd dc dd)]
+    [(= r 2) (automaton pay initial cc (+ cd 0.5) dc dd)]
+    [(= r 3) (automaton pay initial cc cd (+ dc 0.5) dd)]
+    [(= r 4) (automaton pay initial cc cd dc (+ dd 0.5))]))
 
 
 
@@ -255,7 +255,7 @@
      (define pp (population-payoffs p2))
      (define p3 (regenerate p2 speed))
      (define auto (vector-ref p3 0))
-     (define p4 (vector-set! p3 0 (mutate auto)))
+     (vector-set! p3 0 (mutate auto))
      (cons (average pp)
            (evolve (vector-map reset p3) (- cycles 1)
                    speed rounds delta))]))
