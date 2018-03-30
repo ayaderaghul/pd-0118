@@ -13,6 +13,32 @@
 (define (input->numbers data)
   (map string->number (flatten data)))
 
+(define (get-position n ls)
+  (define l (length ls))
+  (define ls2
+    (for/list ([i (in-range l)][j (in-list ls)])
+      #:break (equal? n j)
+      (equal? n j)))
+  (length ls2))
+
+(define (population-at data cycle)
+  (define x (- 100000 cycle))
+  (define raw  (flatten data))
+  (define start (get-position (number->string x) raw))
+  (define x2 (- x 100))
+  (define end  (get-position (number->string x2) raw))
+  (drop (take raw end) (add1 start)))
+(define (resurrect automata)
+  (for/list ([i (in-list automata)])
+    (define a (string-split i ")"))
+    (match-define (list b1 b2) (map string-split a))
+    (define c (drop b1 1))
+    (define d (map string->number c))
+    (apply automaton d)))
+
+  
+  
+
 (define (resurrect-ethnic string)
   (define a (string-split string ")"))
   (match-define (list b1 b2) (map string-split a))
