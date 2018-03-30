@@ -1,8 +1,32 @@
 #lang racket
 
 (require "csv.rkt")
-
+(require "auto.rkt")
 (provide (all-defined-out))
+(require csv-reading)
+(require racket/string)
+
+(define (csvfile->list filename)
+  (call-with-input-file filename
+                        csv->list))
+
+(define (input->numbers data)
+  (map string->number (flatten data)))
+
+(define (resurrect-ethnic string)
+  (define a (string-split string ")"))
+  (match-define (list b1 b2) (map string-split a))
+  (define c1 (drop b1 1))
+  (define c2 (drop b2 1))
+  (define d1 (map string->number c1))
+  (define this-many (string->number (first c2)))
+  (build-vector this-many (lambda (_) (apply automaton d1))))
+
+(define (resurrect-p data)
+  (define a (drop (flatten data) 1))
+  (define ethnics (map resurrect-ethnic a))
+  (apply vector-append ethnics))
+  
 
 ;; if needed, map list data..
 (define (out-data filename data)
@@ -11,5 +35,12 @@
   (close-output-port out))
 
 (define (out-rank cycles rankings rank-file)
-(out-data rank-file (list (list cycles)))
-(out-data rank-file (map list (take (sort (hash->list rankings) > #:key cdr) 4))))
+  (define sorted (sort (hash->list rankings) > #:key cdr))
+  (define l (length sorted))
+  (define export-this (if (> l 20) (take sorted 20) sorted))
+  (out-data rank-file (list (list cycles)))
+  (out-data rank-file (map list export-this)))
+
+(define (out-population cycles rankings p-file)
+  (out-data p-file (list (list cycles)))
+  (out-data p-file (map list (sort (hash->list rankings) > #:key cdr))))

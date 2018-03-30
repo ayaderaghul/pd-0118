@@ -1,7 +1,6 @@
 #lang racket
 (provide (all-defined-out))
 
-
 (define (randomise probability)
   (define r (random))
   (for/last
@@ -44,30 +43,23 @@
 
 
 (define (round1 n)
-  (/ (round (* n 10)) 10))
+  (/ (round (* n 100)) 100))
 
-(define (%->manner n)
-  (cond
-   [(<= n 0.3) 'D]
-   [(<= n 0.7) 'N]
-   [else 'C]))
-
-(define (convert au)
-  (match-define (automaton payoff init cc cd dc dd) au)
-  (automaton 0 0
-             (%->manner cc)
-             (%->manner cd)
-             (%->manner dc)
-             (%->manner dd)))
-(define (convert-population p)
-  (vector-map convert p))
+(define (round-auto auto)
+(match-define (automaton pay init cc cd dc dd) auto)
+(automaton pay (round1 init)
+	(round1 cc)
+	(round1 cd)
+(round1 dc)
+(round1 dd)))
 
 (define (make-random-automaton)
-  (automaton 0 (round1 (random))
-             (round1 (random))
-             (round1 (random))
-             (round1 (random))
-             (round1 (random))))
+(define auto  (automaton 0 (random)
+             (random)
+             (random)
+             (random)
+             (random)))
+(round-auto auto))
 
 
 (define (interact-d au1 au2 rounds delta)
@@ -161,20 +153,19 @@
    (automaton p1 init1 cc1 cd1 dc1 dd1)
    (automaton p2 init2 cc2 cd2 dc2 dd2)))
 
-
-
 (define (mutate auto)
   (match-define (automaton pay initial cc cd dc dd) auto)
   (define r (random 5))
+  (define r2 (random 2))
+  (define m 0.3)
+  (define (mutate-b n)
+    (cond
+     [(and (>= n 0.3) (<= n 0.7)) (if (zero? r2) (+ n m) (- n m))]
+     [(< n 0.3) (+ n m)]
+     [(> n 0.7) (- n m)])) 
   (cond
-    [(zero? r) (automaton pay (+ initial 0.1) cc cd dc dd)]
-    [(= r 1) (automaton pay initial (+ cc 0.1) cd dc dd)]
-    [(= r 2) (automaton pay initial cc (+ cd 0.1) dc dd)]
-    [(= r 3) (automaton pay initial cc cd (+ dc 0.1) dd)]
-    [(= r 4) (automaton pay initial cc cd dc (+ dd 0.1))]))
-
-
-
-
-
-
+    [(zero? r) (automaton pay (mutate-b initial) cc cd dc dd)]
+    [(= r 1) (automaton pay initial (mutate-b cc) cd dc dd)]
+    [(= r 2) (automaton pay initial cc (mutate-b cd) dc dd)]
+    [(= r 3) (automaton pay initial cc cd (mutate-b dc) dd)]
+    [(= r 4) (automaton pay initial cc cd dc (mutate-b dd))]))
