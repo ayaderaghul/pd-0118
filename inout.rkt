@@ -21,8 +21,8 @@
       (equal? n j)))
   (length ls2))
 
-(define (population-at data cycle)
-  (define x (- 100000 cycle))
+(define (population-at data cycle total)
+  (define x (- total cycle))
   (define raw  (flatten data))
   (define start (get-position (number->string x) raw))
   (define x2 (- x 100))
@@ -52,7 +52,10 @@
   (define a (drop (flatten data) 1))
   (define ethnics (map resurrect-ethnic a))
   (apply vector-append ethnics))
-  
+ 
+(define (resurrect-po data)
+(define ethnics (map resurrect-ethnic data))
+(apply vector-append ethnics)) 
 
 ;; if needed, map list data..
 (define (out-data filename data)

@@ -4,22 +4,19 @@
 (require plot)
 (require racket/hash)
 (plot-new-window? #t)
-(require racket/future)
+;;(require racket/future)
 (provide (all-defined-out))
 ;;todo
 ;; markov automaton
-
-
 ;; CONFIGURATION
+(define SIM-ID 3)
+
 (define N 100)
-(define CYCLES 100000)
+(define CYCLES 200000)
 (define SPEED 10)
 (define ROUNDS 500)
-(define DELTA .99)
+(define DELTA .8)
 (define MUTATION 1)
-
-
-
 
 (define (build-random-population n)
   (build-vector n (lambda (_) (make-random-automaton))))
@@ -127,8 +124,6 @@
    (hash)
    p))
 
-
-
 (define (population-mean->lines data)
   (define coors
     (for/list ([d (in-list data)]
@@ -138,7 +133,6 @@
 
 (define (compound d r)
   (foldl (lambda (n a) (+ a (expt d n))) 1 (build-list (- r 1) add1)))
-
 
 (define (plot-mean data delta rounds pic)
   (define reward (* 3 (compound delta rounds)))
@@ -163,12 +157,9 @@
               (population-mean->lines data))
         #:y-min 0 #:y-max (+ 5 reward) #:width 1200 #:height 800))
 
-
-
 (define (sort-population p)
  (sort (hash->list (scan (vector-map reset p)))
        > #:key cdr))
-
 
 ;; MUTATE
 (define (mutate-population population rate)
@@ -215,7 +206,6 @@
            (evolve-p (vector-map round-auto (vector-map reset p3)) (- cycles 1)
                    speed mutation rounds delta))]))
 
-
 (define (gen-name name id)
   (string-append (number->string id) name))
 
@@ -224,7 +214,6 @@
 ;;  (define A (build-random-population N))
   (define data (csvfile->list "p"))
   (define A (resurrect-p data))
-  (define SIM-ID 3)
   (define MEAN (gen-name "mean" SIM-ID))
   (define RANK (gen-name "rank" SIM-ID))
   (time (evolve A CYCLES SPEED MUTATION ROUNDS DELTA MEAN RANK "p" SIM-ID))

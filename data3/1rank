@@ -1,0 +1,4783 @@
+200000
+(#(struct:automaton 0 0.51 0.65 0.22 0.78 0.07) . 2)
+(#(struct:automaton 0 0.86 0.05 0.59 0.94 0.25) . 2)
+(#(struct:automaton 0 0.79 0.45 0.93 0.87 0.09) . 2)
+(#(struct:automaton 0 0.58 0.71 0.33 0.51 0.6) . 2)
+(#(struct:automaton 0 0.31 0.7 0.23 0.62 0.69) . 2)
+(#(struct:automaton 0 0.42 0.5 0.92 0.1 0.41) . 2)
+(#(struct:automaton 0 0.15 0.72 0.53 0.31 0.75) . 2)
+(#(struct:automaton 0 0.25 0.61 0.49 0.12 0.68) . 2)
+(#(struct:automaton 0 0.3 0.85 0.31 0.76 0.91) . 2)
+(#(struct:automaton 0 0.07 0.47 0.83 0.32 0.63) . 2)
+(#(struct:automaton 0 0.86 0.97 0.45 0.22 0.55) . 1)
+(#(struct:automaton 0 0.65 0.52 0.71 0.16 0.73) . 1)
+(#(struct:automaton 0 0.89 0.17 0.29 0.28 0.45) . 1)
+(#(struct:automaton 0 0.18 0.93 0.75 0.99 0.55) . 1)
+(#(struct:automaton 0 1.0 0.78 0.16 0.54 0.19) . 1)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 1)
+(#(struct:automaton 0 0.17 0.14 0.96 0.6 0.33) . 1)
+(#(struct:automaton 0 0.16 0.46 0.36 0.03 0.39) . 1)
+(#(struct:automaton 0 0.06 0.68 0.15 0.47 0.45) . 1)
+(#(struct:automaton 0 0.99 0.69 0.06 0.94 0.36) . 1)
+199900
+(#(struct:automaton 0 0.79 0.07 0.95 0.57 0.87) . 40)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 24)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 18)
+(#(struct:automaton 0 0.44 0.48 0.41 0.49 0.62) . 11)
+(#(struct:automaton 0 0.3 0.15 0.23 0.92 0.68) . 3)
+(#(struct:automaton 0 0.45 0.84 0.43 0.73 0.56) . 2)
+(#(struct:automaton 0 0.65 0.52 0.71 0.16 0.73) . 1)
+(#(struct:automaton 0 0.97 0.49 0.9 0.04 0.09) . 1)
+199800
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 53)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 21)
+(#(struct:automaton 0 0.79 0.07 0.95 0.57 0.87) . 20)
+(#(struct:automaton 0 0.44 0.48 0.41 0.49 0.62) . 6)
+199700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 34)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 33)
+(#(struct:automaton 0 0.79 0.07 0.95 0.57 0.87) . 18)
+(#(struct:automaton 0 0.44 0.48 0.41 0.49 0.62) . 15)
+199600
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 48)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 36)
+(#(struct:automaton 0 0.44 0.48 0.41 0.49 0.62) . 12)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.66) . 4)
+199500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 52)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 44)
+(#(struct:automaton 0 0.44 0.48 0.41 0.49 0.62) . 4)
+199400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 65)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 32)
+(#(struct:automaton 0 0.44 0.48 0.41 0.49 0.62) . 3)
+199300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 55)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 44)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.59) . 1)
+199200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 49)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 45)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 6)
+199100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 58)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 39)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 3)
+199000
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 67)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 33)
+198900
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 67)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 33)
+198800
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 51)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 49)
+198700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 64)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 36)
+198600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 92)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 8)
+198500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 72)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 28)
+198400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 45)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 39)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 16)
+198300
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 38)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 35)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 27)
+198200
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 50)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 33)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 17)
+198100
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 54)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 43)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 3)
+198000
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 82)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 11)
+(#(struct:automaton 0 0.62 0.22 0.55 0.74 0.33) . 6)
+(#(struct:automaton 0 0.32 0.57 0.33 0.52 0.26) . 1)
+197900
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 78)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 19)
+(#(struct:automaton 0 0.65 0.57 0.33 0.85 0.26) . 2)
+(#(struct:automaton 0 0.32 0.57 0.0 0.85 0.26) . 1)
+197800
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 66)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 34)
+197700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 68)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 32)
+197600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 87)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 13)
+197500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 74)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 26)
+197400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+197300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 97)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 3)
+197200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+197100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+197000
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+196900
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+196800
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+196700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+196600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+196500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+196400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+196300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+196200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.85 0.26) . 1)
+196100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 96)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 4)
+196000
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+195900
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 95)
+(#(struct:automaton 0 0.32 0.24 0.66 0.85 0.59) . 3)
+(#(struct:automaton 0 0.32 0.24 0.66 0.85 0.26) . 2)
+195800
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 94)
+(#(struct:automaton 0 0.32 0.24 0.66 0.85 0.59) . 6)
+195700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+195600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+195500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+195400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+195300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+195200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+195100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+195000
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+194900
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 99)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 1)
+194800
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 84)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 16)
+194700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 80)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 20)
+194600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 70)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 30)
+194500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 94)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 6)
+194400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+194300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 84)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.59) . 8)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 8)
+194200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.59) . 1)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 1)
+194100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+194000
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+193900
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+193800
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+193700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 2)
+193600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+193500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+193400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+193300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+193200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+193100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+193000
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+192900
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+192800
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+192700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+192600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 88)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 12)
+192500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 86)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 14)
+192400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 98)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 2)
+192300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+192200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+192100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+192000
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+191900
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+191800
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+191700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+191600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+191500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+191400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+191300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+191200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+191100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.66 0.85 0.26) . 1)
+191000
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+190900
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+190800
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+190700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+190600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+190500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+190400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+190300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+190200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+190100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 76)
+(#(struct:automaton 0 0.65 0.24 0.33 0.85 0.26) . 24)
+190000
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 69)
+(#(struct:automaton 0 0.65 0.24 0.33 0.85 0.26) . 31)
+189900
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 92)
+(#(struct:automaton 0 0.65 0.24 0.33 0.85 0.26) . 8)
+189800
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+189700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+189600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+189500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+189400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+189300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+189200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+189100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+189000
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 100)
+188900
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 89)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 8)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 3)
+188800
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 54)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 46)
+188700
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 61)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 39)
+188600
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 66)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 25)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 9)
+188500
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 68)
+(#(struct:automaton 0 0.32 0.57 0.33 0.85 0.26) . 21)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 11)
+188400
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 96)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 4)
+188300
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 55)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 45)
+188200
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 73)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 27)
+188100
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 79)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 21)
+188000
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 38)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 31)
+(#(struct:automaton 0 0.65 0.24 0.33 0.85 0.26) . 31)
+187900
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 79)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 20)
+(#(struct:automaton 0 0.65 0.24 0.33 0.85 0.26) . 1)
+187800
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 76)
+(#(struct:automaton 0 0.65 0.24 0.33 0.85 0.26) . 13)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 11)
+187700
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 84)
+(#(struct:automaton 0 0.65 0.24 0.33 0.85 0.26) . 16)
+187600
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 91)
+(#(struct:automaton 0 0.65 0.24 0.33 0.85 0.26) . 9)
+187500
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+187400
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 88)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 12)
+187300
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 84)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 16)
+187200
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 70)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 27)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 3)
+187100
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 2)
+187000
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+186900
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+186800
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+186700
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 88)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 12)
+186600
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+186500
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+186400
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 1)
+186300
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+186200
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+186100
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+186000
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+185900
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+185800
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+185700
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+185600
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+185500
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.33 0.85 0.26) . 2)
+185400
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.59) . 2)
+185300
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+185200
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+185100
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+185000
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+184900
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+184800
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+184700
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+184600
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+184500
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 91)
+(#(struct:automaton 0 0.32 0.57 0.0 0.85 0.26) . 9)
+184400
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 98)
+(#(struct:automaton 0 0.32 0.57 0.0 0.85 0.26) . 2)
+184300
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+184200
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+184100
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+184000
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 91)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 9)
+183900
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+183800
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 87)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 13)
+183700
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 70)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 30)
+183600
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 83)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 17)
+183500
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 1)
+183400
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+183300
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+183200
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+183100
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+183000
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+182900
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 100)
+182800
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 94)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 6)
+182700
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 66)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 34)
+182600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 66)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 33)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.59) . 1)
+182500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 97)
+(#(struct:automaton 0 0.32 0.24 0.0 0.85 0.26) . 3)
+182400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+182300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+182200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+182100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+182000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+181900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+181800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 96)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.59) . 4)
+181700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 96)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 4)
+181600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+181500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+181400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+181300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+181200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+181100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+181000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+180900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+180800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+180700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 2)
+180600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.59) . 1)
+180500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+180400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 2)
+180300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+180200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+180100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+180000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+179900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+179800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+179700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+179600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+179500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+179400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 92)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 8)
+179300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 1)
+179200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+179100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.59) . 1)
+179000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 2)
+178900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 92)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 6)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+178800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+178700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 96)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.59) . 4)
+178600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+178500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+178400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+178300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+178200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 86)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 14)
+178100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+178000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 1)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+177900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+177800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+177700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+177600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+177500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+177400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+177300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.59) . 2)
+177200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+177100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+177000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+176900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+176800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+176700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 90)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.59) . 10)
+176600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.59) . 1)
+176500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+176400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+176300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+176200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+176100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+176000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+175900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 2)
+175800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 2)
+175700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+175600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+175500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+175400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+175300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+175200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+175100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+175000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 1)
+174900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+174800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+174700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.59) . 2)
+174600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+174500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 6)
+174400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 62)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 38)
+174300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 72)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 28)
+174200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 58)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 42)
+174100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 65)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 35)
+174000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 83)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 17)
+173900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 96)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 4)
+173800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 86)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 11)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 3)
+173700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 86)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 14)
+173600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 1)
+173500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+173400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+173300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+173200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 96)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 4)
+173100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 97)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 3)
+173000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+172900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+172800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+172700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 91)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 9)
+172600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 95)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 5)
+172500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 93)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 4)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 3)
+172400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+172300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 2)
+172200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+172100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+172000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+171900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+171800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 95)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 5)
+171700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+171600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+171500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+171400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+171300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+171200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+171100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+171000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+170900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 92)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 8)
+170800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 91)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 9)
+170700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 84)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 16)
+170600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 63)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 37)
+170500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 83)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 17)
+170400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+170300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+170200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+170100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+170000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+169900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+169800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+169700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+169600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+169500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+169400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+169300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+169200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 1)
+169100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.59) . 4)
+169000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.59) . 1)
+168900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+168800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 1)
+168700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 2)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 2)
+(#(struct:automaton 0 0.65 0.24 0.33 0.52 0.26) . 2)
+168600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 77)
+(#(struct:automaton 0 0.65 0.24 0.33 0.52 0.26) . 14)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 9)
+168500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+168400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+168300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+168200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 1)
+168100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+168000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+167900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+167800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 86)
+(#(struct:automaton 0 0.65 0.24 0.33 0.52 0.26) . 14)
+167700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 70)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 24)
+(#(struct:automaton 0 0.65 0.24 0.33 0.52 0.26) . 6)
+167600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 69)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 26)
+(#(struct:automaton 0 0.65 0.24 0.33 0.52 0.26) . 5)
+167500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 78)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 16)
+(#(struct:automaton 0 0.65 0.24 0.33 0.52 0.26) . 6)
+167400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 55)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 25)
+(#(struct:automaton 0 0.65 0.24 0.33 0.52 0.26) . 20)
+167300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+167200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+167100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 2)
+167000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 79)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 19)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 2)
+166900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 1)
+166800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+166700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+166600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 1)
+166500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+166400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 1)
+166300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+166200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 97)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 3)
+166100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+166000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+165900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 3)
+165800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+165700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+165600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+165500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+165400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 1)
+165300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+165200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+165100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+165000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+164900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 96)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 4)
+164800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 94)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 6)
+164700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 96)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 4)
+164600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 97)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 3)
+164500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+164400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+164300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+164200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.52 0.26) . 1)
+164100
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+164000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.85 0.26) . 3)
+163900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+163800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+163700
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+163600
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+163500
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+163400
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 100)
+163300
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 56)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 44)
+163200
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 52)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 48)
+163100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 64)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 36)
+163000
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 63)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 37)
+162900
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 52)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 48)
+162800
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 60)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 40)
+162700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 68)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 32)
+162600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 91)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 9)
+162500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+162400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 4)
+162300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 91)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 9)
+162200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+162100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+162000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+161900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+161800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 91)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 9)
+161700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 2)
+161600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+161500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+161400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+161300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+161200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+161100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+161000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+160900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+160800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+160700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 97)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.59) . 3)
+160600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+160500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+160400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+160300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+160200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+160100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 97)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 3)
+160000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.33 0.52 0.26) . 1)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 1)
+159900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+159800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+159700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+159600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+159500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+159400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+159300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+159200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+159100
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+159000
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+158900
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+158800
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+158700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+158600
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+158500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+158400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 100)
+158300
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 84)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 16)
+158200
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 60)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 40)
+158100
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 60)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 40)
+158000
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 50)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 49)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 1)
+157900
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 49)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 30)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 21)
+157800
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 56)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 39)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 5)
+157700
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 61)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 34)
+(#(struct:automaton 0 0.32 0.57 0.0 0.52 0.26) . 5)
+157600
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 57)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 41)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+157500
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 56)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 44)
+157400
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 55)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 45)
+157300
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 1)
+157200
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.59) . 1)
+157100
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 13)
+157000
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 7)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 1)
+156900
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+156800
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+156700
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+156600
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+156500
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 1)
+156400
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+156300
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+156200
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 1)
+156100
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.33 0.19 0.26) . 1)
+156000
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+155900
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+155800
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 1)
+155700
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 4)
+155600
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+155500
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+155400
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+155300
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+155200
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+155100
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+155000
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+154900
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+154800
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+154700
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+154600
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+154500
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+154400
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.52 0.26) . 1)
+154300
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+154200
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+154100
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+154000
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+153900
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+153800
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+153700
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+153600
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+153500
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+153400
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+153300
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+153200
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+153100
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+153000
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.33 0.19 0.26) . 1)
+152900
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+152800
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+152700
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+152600
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+152500
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+152400
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+152300
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 100)
+152200
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 89)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 11)
+152100
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 81)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 19)
+152000
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 86)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 14)
+151900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 69)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 31)
+151800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 68)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 32)
+151700
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 65)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 35)
+151600
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 80)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 20)
+151500
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 55)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 45)
+151400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 89)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 11)
+151300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 88)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 12)
+151200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 4)
+151100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+151000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 5)
+150900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 90)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 10)
+150800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 76)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 23)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+150700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 79)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 21)
+150600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 77)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 22)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+150500
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 56)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 41)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 3)
+150400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 64)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 36)
+150300
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 80)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 20)
+150200
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 51)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 48)
+(#(struct:automaton 0 0.32 0.24 0.33 0.19 0.26) . 1)
+150100
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 56)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 44)
+150000
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 58)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 42)
+149900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 71)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 29)
+149800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 4)
+149700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+149600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+149500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+149400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+149300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 4)
+149200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+149100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+149000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+148900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+148800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+148700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+148600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+148500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+148400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+148300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+148200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+148100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+148000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+147900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+147800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+147700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+147600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+147500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+147400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+147300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+147200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+147100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+147000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+146900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+146800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+146700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+146600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+146500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+146400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+146300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+146200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+146100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+146000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+145900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+145800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 4)
+145700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 85)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 13)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 2)
+145600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+145500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+145400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+145300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 3)
+145200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+145100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+145000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+144900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 2)
+144800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+144700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 3)
+144600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 63)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 37)
+144500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 6)
+144400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+144300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+144200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+144100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+144000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+143900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 1)
+143800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+143700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+143600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+143500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+143400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+143300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+143200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+143100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+143000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+142900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+142800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+142700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+142600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+142500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+142400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+142300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+142200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+142100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+142000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+141900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+141800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+141700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 3)
+141600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+141500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+141400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+141300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+141200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+141100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+141000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+140900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+140800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+140700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+140600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+140500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+140400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+140300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+140200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+140100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+140000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 3)
+139900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 6)
+139800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+139700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+139600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+139500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+139400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 1)
+139300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+139200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+139100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+139000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 2)
+138900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+138800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+138700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+138600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+138500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 4)
+138400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 3)
+138300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+138200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+138100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+138000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+137900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+137800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+137700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+137600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+137500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+137400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+137300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+137200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+137100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+137000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+136900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+136800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+136700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+136600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+136500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+136400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+136300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+136200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+136100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 2)
+136000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+135900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+135800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+135700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+135600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 3)
+135500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+135400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+135300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+135200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+135100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+135000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+134900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+134800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+134700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+134600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+134500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+134400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+134300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+134200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+134100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 3)
+134000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 3)
+133900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+133800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+133700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+133600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+133500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+133400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+133300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+133200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+133100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+133000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+132900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+132800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+132700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+132600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+132500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+132400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+132300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+132200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+132100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+132000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+131900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+131800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 2)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+131700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+131600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+131500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+131400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+131300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+131200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+131100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+131000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 86)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 14)
+130900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 1)
+130800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+130700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 3)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+130600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+130500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+130400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+130300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+130200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+130100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+130000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+129900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+129800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+129700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+129600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+129500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+129400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+129300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+129200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+129100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+129000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+128900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+128800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+128700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+128600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 89)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 11)
+128500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+128400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 3)
+128300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+128200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+128100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 7)
+128000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+127900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 4)
+127800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 1)
+127700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+127600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+127500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+127400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 3)
+127300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+127200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+127100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+127000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+126900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+126800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+126700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+126600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 2)
+126500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+126400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+126300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+126200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+126100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+126000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+125900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+125800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+125700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 3)
+125600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+125500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+125400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+125300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+125200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+125100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 8)
+125000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+124900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+124800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+124700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+124600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+124500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+124400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 4)
+124300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+124200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 80)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 17)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 3)
+124100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+124000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+123900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+123800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+123700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+123600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+123500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+123400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+123300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+123200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+123100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+123000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 3)
+122900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+122800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+122700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+122600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+122500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+122400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+122300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+122200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+122100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+122000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+121900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+121800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+121700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+121600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 90)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 9)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+121500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 3)
+121400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+121300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+121200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+121100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 6)
+121000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+120900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+120800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+120700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 1)
+120600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 7)
+120500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+120400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+120300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 3)
+120200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+120100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+120000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 4)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+119900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+119800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+119700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+119600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+119500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+119400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+119300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+119200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+119100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+119000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 9)
+118900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 9)
+118800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+118700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+118600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+118500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 3)
+118400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+118300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+118200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+118100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+118000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+117900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+117800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+117700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+117600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+117500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+117400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+117300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+117200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+117100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+117000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+116900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+116800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 3)
+116700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+116600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+116500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 1)
+116400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+116300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+116200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+116100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+116000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 6)
+115900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 90)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 10)
+115800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 77)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 23)
+115700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 52)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 48)
+115600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 56)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 44)
+115500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 62)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 35)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 3)
+115400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 60)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 31)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 9)
+115300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 69)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 27)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 4)
+115200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 79)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 18)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 3)
+115100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 90)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 10)
+115000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+114900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+114800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+114700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 3)
+114600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+114500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+114400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+114300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+114200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+114100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+114000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+113900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 1)
+113800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+113700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 2)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 2)
+113600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 77)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 23)
+113500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+113400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+113300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+113200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+113100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+113000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+112900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+112800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+112700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 74)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 26)
+112600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 9)
+112500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 8)
+112400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 5)
+112300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 8)
+112200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 4)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 1)
+112100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+112000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+111900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+111800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+111700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+111600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+111500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+111400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+111300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+111200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+111100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+111000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+110900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+110800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+110700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+110600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+110500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+110400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+110300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+110200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+110100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+110000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+109900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+109800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+109700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+109600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+109500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+109400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+109300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 1)
+109200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+109100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 4)
+109000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+108900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+108800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+108700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+108600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 6)
+108500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 90)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 10)
+108400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+108300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+108200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+108100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+108000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+107900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+107800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 3)
+107700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+107600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 5)
+107500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+107400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+107300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+107200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+107100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+107000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+106900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+106800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+106700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+106600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+106500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+106400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+106300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 1)
+106200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+106100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+106000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+105900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+105800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 5)
+105700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+105600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+105500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+105400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+105300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+105200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+105100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+105000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+104900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+104800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+104700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+104600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 3)
+104500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+104400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+104300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+104200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+104100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 88)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 12)
+104000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+103900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 82)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 18)
+103800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 76)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 23)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 1)
+103700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 5)
+103600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+103500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+103400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+103300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 5)
+103200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+103100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 1)
+103000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+102900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+102800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+102700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+102600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+102500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 13)
+102400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 2)
+102300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+102200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 2)
+102100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 12)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 1)
+102000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 50)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 41)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 9)
+101900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 41)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 38)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 21)
+101800
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 40)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 36)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 19)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 5)
+101700
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 74)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 17)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 8)
+(#(struct:automaton 0 0.98 0.57 0.33 0.19 0.26) . 1)
+101600
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 69)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 31)
+101500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 57)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 43)
+101400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 52)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 48)
+101300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 59)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 41)
+101200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 74)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 25)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 1)
+101100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 80)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 20)
+101000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 13)
+100900
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 51)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 49)
+100800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 7)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 1)
+100700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+100600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+100500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+100400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 1)
+100300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+100200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 1)
+100100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+100000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+99900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+99800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 3)
+99700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 4)
+99600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+99500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+99400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+99300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+99200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+99100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+99000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+98900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+98800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+98700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+98600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+98500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+98400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+98300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 2)
+98200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 71)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 29)
+98100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 74)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 26)
+98000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 54)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 46)
+97900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 73)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 27)
+97800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 9)
+97700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 9)
+97600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+97500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+97400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+97300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+97200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 6)
+97100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+97000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+96900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 2)
+96800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+96700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+96600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 1)
+96500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+96400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+96300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 9)
+96200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 2)
+96100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+96000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+95900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+95800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+95700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 1)
+95600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+95500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+95400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+95300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+95200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 3)
+95100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 1)
+95000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+94900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+94800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+94700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+94600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+94500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 1)
+94400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+94300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+94200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+94100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+94000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+93900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+93800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+93700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+93600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+93500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+93400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+93300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+93200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 3)
+93100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 2)
+93000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+92900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+92800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+92700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+92600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+92500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+92400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+92300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+92200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+92100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+92000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 4)
+91900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+91800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+91700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 1)
+91600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+91500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+91400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 2)
+91300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+91200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+91100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+91000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+90900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+90800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+90700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+90600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+90500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+90400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+90300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+90200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+90100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+90000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+89900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+89800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+89700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+89600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+89500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+89400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 1)
+89300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+89200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 9)
+89100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 68)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 32)
+89000
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 72)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 28)
+88900
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 82)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 18)
+88800
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 3)
+88700
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 85)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 15)
+88600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 53)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 47)
+88500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 85)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 15)
+88400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 13)
+88300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+88200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 2)
+88100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 88)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 7)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 5)
+88000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 5)
+87900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 2)
+87800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 8)
+87700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 13)
+87600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 89)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 11)
+87500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 72)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 28)
+87400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 77)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 23)
+87300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 66)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 34)
+87200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 88)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 12)
+87100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 81)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 19)
+87000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 84)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 16)
+86900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 80)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 20)
+86800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 3)
+86700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+86600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+86500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+86400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+86300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 4)
+86200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+86100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+86000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+85900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 72)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 28)
+85800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 85)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 15)
+85700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 88)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 12)
+85600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+85500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 4)
+85400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+85300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+85200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+85100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+85000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+84900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+84800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.59) . 2)
+84700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+84600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+84500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 85)
+(#(struct:automaton 0 0.98 0.24 0.33 0.19 0.26) . 15)
+84400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 1)
+84300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+84200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+84100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+84000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+83900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+83800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+83700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+83600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+83500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+83400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+83300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+83200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+83100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 1)
+83000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+82900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+82800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+82700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+82600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.52 0.26) . 1)
+82500
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+82400
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+82300
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 1)
+82200
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+82100
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 100)
+82000
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 8)
+81900
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 85)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 15)
+81800
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 78)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 22)
+81700
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 78)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 22)
+81600
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 73)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 27)
+81500
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 78)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 22)
+81400
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 6)
+81300
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 7)
+81200
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 7)
+81100
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+81000
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 3)
+80900
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+80800
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.59) . 2)
+80700
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.59) . 1)
+80600
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+80500
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.98 0.57 0.0 0.52 0.26) . 6)
+80400
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.57 0.0 0.52 0.26) . 1)
+80300
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+80200
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 3)
+80100
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+80000
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+79900
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+79800
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+79700
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+79600
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+79500
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.57 0.0 0.52 0.26) . 1)
+79400
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+79300
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+79200
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+79100
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+79000
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+78900
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 100)
+78800
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 13)
+78700
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 13)
+78600
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 61)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 39)
+78500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 66)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 33)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 1)
+78400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 49)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 42)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 9)
+78300
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 62)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 38)
+78200
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 66)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 34)
+78100
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 70)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 30)
+78000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 66)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 34)
+77900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 61)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 34)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 5)
+77800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 13)
+77700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 63)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 37)
+77600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 86)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 14)
+77500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 74)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 26)
+77400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 57)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 43)
+77300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 66)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 29)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.59) . 5)
+77200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 76)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 24)
+77100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 13)
+77000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 80)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 18)
+(#(struct:automaton 0 0.65 0.9 0.0 0.19 0.26) . 2)
+76900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 86)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 12)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 2)
+76800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 82)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 18)
+76700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 6)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.59) . 1)
+76600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.9 0.0 0.19 0.26) . 1)
+76500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 4)
+76400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+76300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+76200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+76100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+76000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 3)
+75900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+75800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+75700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 5)
+75600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 8)
+75500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+75400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+75300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+75200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+75100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+75000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 89)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 11)
+74900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 3)
+74800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 73)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 27)
+74700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 8)
+74600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+74500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+74400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 1)
+74300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+74200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+74100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 1)
+74000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+73900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+73800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+73700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+73600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.59) . 2)
+73500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+73400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+73300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+73200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+73100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+73000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+72900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+72800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+72700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+72600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+72500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+72400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+72300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+72200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+72100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+72000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+71900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+71800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 3)
+71700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 2)
+71600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+71500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+71400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+71300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+71200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+71100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 3)
+71000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+70900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.9 0.0 0.19 0.26) . 2)
+70800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+70700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+70600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+70500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+70400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+70300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 6)
+70200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+70100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+70000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 2)
+69900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 2)
+69800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 2)
+69700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 1)
+69600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 5)
+69500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 6)
+(#(struct:automaton 0 0.65 0.9 0.0 0.19 0.26) . 1)
+69400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 7)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 1)
+(#(struct:automaton 0 0.65 0.9 0.0 0.19 0.26) . 1)
+69300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 51)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 32)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 11)
+(#(struct:automaton 0 0.65 0.9 0.0 0.19 0.26) . 6)
+69200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 61)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 36)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 3)
+69100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 80)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 20)
+69000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 2)
+68900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 2)
+68800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+68700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 86)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 9)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 5)
+68600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+68500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+68400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+68300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+68200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+68100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+68000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+67900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+67800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+67700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+67600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+67500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+67400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+67300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+67200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+67100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+67000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 1)
+66900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 2)
+66800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 90)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 10)
+66700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+66600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 73)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 27)
+66500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 9)
+66400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+66300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+66200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+66100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+66000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+65900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+65800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+65700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+65600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+65500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+65400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+65300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+65200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+65100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+65000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+64900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+64800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+64700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+64600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+64500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+64400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+64300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+64200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+64100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+64000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 2)
+63900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 2)
+63800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+63700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+63600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+63500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+63400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 9)
+63300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 13)
+63200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+63100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+63000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+62900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+62800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+62700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+62600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+62500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+62400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+62300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+62200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+62100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+62000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+61900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+61800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+61700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+61600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+61500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 5)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 1)
+61400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+61300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+61200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+61100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+61000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 6)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 3)
+60900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 2)
+60800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+60700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+60600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+60500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+60400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+60300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+60200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+60100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+60000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+59900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+59800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+59700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+59600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+59500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 2)
+59400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+59300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+59200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+59100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+59000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 6)
+58900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+58800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 8)
+58700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 5)
+58600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 4)
+58500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 1)
+58400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 2)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+58300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 85)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 14)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+58200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+58100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+58000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+57900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+57800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+57700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+57600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+57500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+57400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 5)
+57300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 82)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 18)
+57200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 82)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 18)
+57100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 5)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 3)
+57000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+56900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+56800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+56700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+56600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+56500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+56400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+56300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+56200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+56100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+56000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+55900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+55800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+55700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 6)
+55600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+55500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+55400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+55300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+55200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+55100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+55000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+54900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 3)
+54800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+54700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+54600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+54500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 3)
+54400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+54300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+54200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+54100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+54000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+53900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+53800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+53700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+53600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+53500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+53400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+53300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+53200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+53100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+53000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+52900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+52800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+52700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 1)
+52600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 7)
+52500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 6)
+52400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+52300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+52200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+52100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+52000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+51900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 1)
+51800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+51700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+51600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+51500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+51400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+51300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+51200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+51100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+51000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+50900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+50800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+50700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+50600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+50500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 89)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 11)
+50400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+50300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+50200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+50100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+50000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+49900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+49800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+49700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+49600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 1)
+49500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+49400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+49300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+49200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+49100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+49000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+48900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+48800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+48700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+48600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+48500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+48400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+48300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+48200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 5)
+48100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+48000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+47900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+47800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+47700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+47600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+47500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+47400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+47300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 1)
+47200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+47100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+47000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+46900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+46800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+46700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+46600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+46500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+46400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+46300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+46200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+46100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+46000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+45900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+45800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+45700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+45600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+45500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+45400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+45300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+45200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+45100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+45000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+44900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+44800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 92)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 8)
+44700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+44600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+44500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+44400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+44300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+44200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+44100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 2)
+44000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+43900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+43800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+43700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 90)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 10)
+43600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+43500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+43400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+43300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+43200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+43100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+43000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+42900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+42800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+42700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 13)
+42600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 2)
+42500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+42400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+42300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+42200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+42100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+42000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+41900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+41800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+41700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+41600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+41500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+41400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+41300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+41200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+41100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+41000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+40900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+40800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 2)
+40700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+40600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+40500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+40400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+40300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+40200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+40100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+40000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+39900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+39800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+39700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+39600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 1)
+39500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+39400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+39300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+39200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+39100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+39000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+38900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+38800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+38700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+38600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+38500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+38400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+38300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+38200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+38100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+38000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+37900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+37800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+37700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+37600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+37500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+37400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+37300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 6)
+37200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+37100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+37000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+36900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 2)
+36800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+36700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+36600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 85)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 15)
+36500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 63)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 37)
+36400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 83)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 12)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 5)
+36300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 6)
+36200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 7)
+36100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 4)
+36000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 5)
+35900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+35800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+35700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+35600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+35500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+35400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+35300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+35200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+35100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+35000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+34900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+34800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 88)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 12)
+34700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 88)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 12)
+34600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 82)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 18)
+34500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 69)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 31)
+34400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 76)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 24)
+34300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 83)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 17)
+34200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 90)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 10)
+34100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+34000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+33900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 5)
+33800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 7)
+33700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 60)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 40)
+33600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 83)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 15)
+(#(struct:automaton 0 0.32 0.24 0.33 0.19 0.26) . 2)
+33500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 66)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 34)
+33400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 56)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 44)
+33300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 78)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 22)
+33200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 81)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 19)
+33100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 2)
+33000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+32900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+32800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+32700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+32600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+32500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+32400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+32300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+32200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 6)
+32100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 7)
+32000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+31900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+31800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+31700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+31600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+31500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+31400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+31300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 2)
+31200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+31100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+31000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+30900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+30800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+30700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+30600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+30500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+30400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+30300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+30200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+30100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+30000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+29900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+29800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 3)
+29700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+29600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 5)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+29500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+29400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+29300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+29200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 2)
+29100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+29000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+28900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+28800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+28700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+28600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+28500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+28400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+28300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+28200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+28100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+28000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+27900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+27800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+27700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+27600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 3)
+27500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 80)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 20)
+27400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 93)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 7)
+27300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+27200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+27100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+27000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+26900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+26800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+26700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+26600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 90)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 10)
+26500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 4)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+26400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+26300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 88)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 12)
+26200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 81)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 19)
+26100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 85)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 15)
+26000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+25900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+25800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+25700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+25600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+25500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+25400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 2)
+25300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 3)
+25200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+25100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+25000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+24900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+24800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+24700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+24600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+24500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+24400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+24300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+24200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+24100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+24000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+23900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+23800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+23700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+23600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+23500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 2)
+(#(struct:automaton 0 0.65 0.24 0.33 0.19 0.26) . 1)
+23400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 2)
+23300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+23200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+23100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+23000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+22900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+22800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+22700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+22600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+22500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 5)
+22400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+22300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+22200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 84)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 16)
+22100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 2)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 1)
+22000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+21900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+21800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+21700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+21600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+21500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+21400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+21300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+21200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 2)
+21100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+21000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+20900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+20800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+20700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 3)
+20600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+20500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+20400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+20300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+20200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+20100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+20000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+19900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+19800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 6)
+19700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 89)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 11)
+19600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 5)
+19500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 80)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 20)
+19400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 90)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 10)
+19300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 2)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+19200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+19100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+19000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+18900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 9)
+18800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+18700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+18600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+18500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+18400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+18300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 5)
+18200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 5)
+18100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+18000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+17900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+17800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+17700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+17600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+17500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+17400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+17300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+17200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+17100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+17000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.59) . 1)
+16900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+16800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+16700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+16600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 1)
+16500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 4)
+16400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+16300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+16200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+16100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+16000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+15900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+15800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+15700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+15600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+15500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+15400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+15300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+15200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+15100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+15000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+14900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+14800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+14700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+14600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+14500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+14400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.32 0.24 0.0 0.19 0.26) . 1)
+14300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+14200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+14100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+14000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+13900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+13800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+13700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+13600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+13500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+13400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+13300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+13200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+13100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 2)
+13000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+12900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+12800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+12700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+12600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+12500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+12400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+12300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+12200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+12100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+12000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+11900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.98 0.24 0.0 0.19 0.26) . 2)
+11800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+11700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+11600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+11500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 2)
+11400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 64)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 36)
+11300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 58)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 42)
+11200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+11100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+11000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+10900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+10800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 3)
+10700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 6)
+10600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+10500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+10400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+10300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+10200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+10100
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+10000
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+9900
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+9800
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+9700
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+9600
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 100)
+9500
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 89)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 11)
+9400
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 86)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 14)
+9300
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 84)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 15)
+(#(struct:automaton 0 0.65 0.24 0.0 0.52 0.26) . 1)
+9200
+(#(struct:automaton 0 0.65 0.24 0.0 0.19 0.26) . 54)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 46)
+9100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+9000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.59) . 1)
+8900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+8800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 77)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 23)
+8700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 57)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 43)
+8600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 82)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 18)
+8500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 81)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 19)
+8400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 91)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 9)
+8300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 2)
+8200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 3)
+8100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.98 0.57 0.0 0.19 0.26) . 1)
+8000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+7900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+7800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 2)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.59) . 2)
+7700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 2)
+(#(struct:automaton 0 0.65 0.9 0.0 0.19 0.26) . 1)
+7600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 97)
+(#(struct:automaton 0 0.65 0.9 0.0 0.19 0.26) . 3)
+7500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+7400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+7300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+7200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+7100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+7000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+6900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+6800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+6700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+6600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+6500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+6400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+6300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+6200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+6100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.59) . 4)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 1)
+6000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.59) . 6)
+5900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+5800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+5700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+5600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+5500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 4)
+5400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 87)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 13)
+5300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+5200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+5100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+5000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+4900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+4800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 5)
+4700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+4600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+4500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.59) . 1)
+4400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+4300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.59) . 1)
+4200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+4100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+4000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 2)
+3900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+3800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+3700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+3600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+3500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+3400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+3300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.59) . 5)
+3200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+3100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 94)
+(#(struct:automaton 0 0.65 0.9 0.0 0.19 0.26) . 6)
+3000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+2900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+2800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+2700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+2600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+2500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.65 0.57 0.0 0.52 0.26) . 5)
+2400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+2300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+2200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+2100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 99)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 1)
+2000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 96)
+(#(struct:automaton 0 0.65 0.57 0.33 0.19 0.26) . 4)
+1900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+1800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+1700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 5)
+1600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+1500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 98)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 2)
+1400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+1300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+1200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+1100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+1000
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+900
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 95)
+(#(struct:automaton 0 0.32 0.57 0.0 0.19 0.26) . 5)
+800
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+700
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+600
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+500
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+400
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+300
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+200
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)
+100
+(#(struct:automaton 0 0.65 0.57 0.0 0.19 0.26) . 100)

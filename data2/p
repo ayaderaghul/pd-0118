@@ -1,0 +1,7 @@
+4
+(#(struct:automaton 0 0.4 0.27 0.59 0.11 0.33) . 98)
+(#(struct:automaton 0 0.4 0.27 0.59 0.11 0.03) . 1)
+(#(struct:automaton 0 0.4 0.27 0.59 0.41 0.33) . 1)
+5
+(#(struct:automaton 0 0.4 0.27 0.29 0.11 0.03) . 99)
+(#(struct:automaton 0 0.4 0.27 0.29 0.41 0.03) . 1)

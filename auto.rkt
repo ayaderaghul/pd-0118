@@ -54,12 +54,12 @@
 (round1 dd)))
 
 (define (make-random-automaton)
-(define auto  (automaton 0 (random)
-             (random)
-             (random)
-             (random)
-             (random)))
-(round-auto auto))
+  (define auto  (automaton 0 (random)
+                           (random)
+                           (random)
+                           (random)
+                           (random)))
+  (round-auto auto))
 
 
 (define (interact-d au1 au2 rounds delta)
@@ -88,7 +88,7 @@
               (+ payoff2 (* pa2 (expt delta _)))
               (cons (cons pa1 pa2) round-results)
               )))
-  (values results
+  (values (reverse results)
    (automaton p1 init1 cc1 cd1 dc1 dd1)
    (automaton p2 init2 cc2 cd2 dc2 dd2)))
 
@@ -118,7 +118,7 @@
               (+ payoff2 (* pa2 (expt delta _)))
               (cons (cons pa1 pa2) round-results)
               )))
-  (values (take results 20)
+  (values (take (reverse results) 20)
    (automaton p1 init1 cc1 cd1 dc1 dd1)
    (automaton p2 init2 cc2 cd2 dc2 dd2)))
 
@@ -153,19 +153,29 @@
    (automaton p1 init1 cc1 cd1 dc1 dd1)
    (automaton p2 init2 cc2 cd2 dc2 dd2)))
 
+(define (random-decimal prob)
+  (define n (inexact->exact (round (* prob 100))))
+  (if (zero? prob)
+      0
+      (round1 (exact->inexact (/ (random n) 100)))))
+(define (mutate-b prob)
+;;  (print (number->string prob))
+  (define r (random 2))
+;;  (print (number->string r))
+  (define decrease (random-decimal prob))
+;;  (print (number->string decrease))
+  (define increase (random-decimal (round1 (- 1 prob))))
+;;  (print (number->string increase))
+  (if (zero? r)
+      (+ prob increase)
+      (- prob decrease)))
+
 (define (mutate auto)
   (match-define (automaton pay initial cc cd dc dd) auto)
   (define r (random 5))
-  (define r2 (random 2))
-  (define m 0.3)
-  (define (mutate-b n)
-    (cond
-     [(and (>= n 0.3) (<= n 0.7)) (if (zero? r2) (+ n m) (- n m))]
-     [(< n 0.3) (+ n m)]
-     [(> n 0.7) (- n m)])) 
   (cond
-    [(zero? r) (automaton pay (mutate-b initial) cc cd dc dd)]
-    [(= r 1) (automaton pay initial (mutate-b cc) cd dc dd)]
-    [(= r 2) (automaton pay initial cc (mutate-b cd) dc dd)]
-    [(= r 3) (automaton pay initial cc cd (mutate-b dc) dd)]
-    [(= r 4) (automaton pay initial cc cd dc (mutate-b dd))]))
+   [(zero? r) (automaton pay (mutate-b initial) cc cd dc dd)]
+   [(= r 1) (automaton pay initial (mutate-b cc) cd dc dd)]
+   [(= r 2) (automaton pay initial cc (mutate-b cd) dc dd)]
+   [(= r 3) (automaton pay initial cc cd (mutate-b dc) dd)]
+   [(= r 4) (automaton pay initial cc cd dc (mutate-b dd))]))
