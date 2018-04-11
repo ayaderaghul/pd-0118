@@ -1,11 +1,11 @@
 #lang racket
 
-(require "csv.rkt")
-(require "auto.rkt")
-(provide (all-defined-out))
-(require csv-reading)
-(require racket/string)
+(require "csv.rkt" "auto.rkt")
+(require csv-reading racket/string)
 
+(provide (all-defined-out))
+
+;; IN
 (define (csvfile->list filename)
   (call-with-input-file filename
                         csv->list))
@@ -28,6 +28,7 @@
   (define x2 (- x 100))
   (define end  (get-position (number->string x2) raw))
   (drop (take raw end) (add1 start)))
+
 (define (resurrect automata)
   (for/list ([i (in-list automata)])
     (define a (string-split i ")"))
@@ -35,9 +36,6 @@
     (define c (drop b1 1))
     (define d (map string->number c))
     (apply automaton d)))
-
-  
-  
 
 (define (resurrect-ethnic string)
   (define a (string-split string ")"))
@@ -54,9 +52,10 @@
   (apply vector-append ethnics))
  
 (define (resurrect-po data)
-(define ethnics (map resurrect-ethnic data))
-(apply vector-append ethnics)) 
+  (define ethnics (map resurrect-ethnic data))
+  (apply vector-append ethnics)) 
 
+;; OUT
 ;; if needed, map list data..
 (define (out-data filename data)
   (define out (open-output-file filename #:mode 'text #:exists 'append))

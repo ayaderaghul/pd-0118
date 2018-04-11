@@ -1,31 +1,25 @@
 #lang racket
-(require "auto.rkt")
-(require "inout.rkt")
-(require plot)
-(require racket/hash)
+(require "auto.rkt" "inout.rkt")
+(require plot racket/hash)
 (plot-new-window? #t)
-;;(require racket/future)
+
 (provide (all-defined-out))
-;;todo
-;; markov automaton
+
 ;; CONFIGURATION
-(define SIM-ID 3)
+(define SIM-ID 1)
 
 (define N 100)
-(define CYCLES 200000)
+(define CYCLES 80000)
 (define SPEED 10)
 (define ROUNDS 500)
-(define DELTA .8)
+(define DELTA .5)
 (define MUTATION 1)
 
+;; POPULATION
 (define (build-random-population n)
   (build-vector n (lambda (_) (make-random-automaton))))
-(define (population-payoffs population)
-  (for/list
-      ([auto population])
-    (automaton-payoff auto)))
+
 (define (match-population population rounds delta)
-  ;(population-reset population)
   (for
       ([i (in-range 0 (- (vector-length population) 1) 2)])
     (define auto1 (vector-ref population i))
@@ -36,35 +30,10 @@
     (vector-set! population (+ i 1) a2))
   population)
 
-(define (pack-pairs a-vec)
-  (define l (vector-length a-vec))
-  (for/list ([i (in-range (/ l 2))])
-    (list
-     (vector-ref a-vec (* 2 i))
-     (vector-ref a-vec (add1 (* 2 i))))))
-(define (interact-pair l rounds delta)
-  (interact (first l) (second l) rounds delta))
-
-(define (match-population-f population rounds delta)
-  (define pairs (pack-pairs population))
-  (define futures 
-    (for/list ([i (in-list pairs)])
-      (future 
-       (lambda ()
-         (interact-pair
-          i
-          rounds delta)))))
-  (time (map touch futures)))
-      
-
-(define (match-population-2 population rounds delta)
-  (define p (vector->list population))
-  (define p1 (list->vector (take p (/ N 2))))
-  (define p2 (list->vector (drop p (/ N 2))))
-  (let ([f (future (lambda () (match-population p2 rounds delta)))])
-    (match-population p1 rounds delta)
-    (touch f)))
-
+(define (population-payoffs population)
+  (for/list
+      ([auto population])
+    (automaton-payoff auto)))
 
 (define (sum l)
   (apply + l))
@@ -75,38 +44,36 @@
   (for/list ([p (in-list payoffs)])
     (/ p total)))
 
+(define (accumulate probabilities)
+  (let accumulate-helper
+      ([remainders probabilities] [so-far #i0.0])
+    (cond
+      [(empty? remainders) '()]
+      [else (define nxt (+ so-far (first remainders)))
+            (cons nxt (accumulate-helper (rest remainders) nxt))])))
+
+;; choose auto depending on fitness
+(define (randomise-auto probabilities speed)
+  (define accumulated-fitness-vector (accumulate probabilities))
+  (for/list ([n (in-range speed)])
+    (define r (random))
+    (for/last ([p (in-naturals)]
+               [% (in-list accumulated-fitness-vector)]
+               #:final (< r %)) p)))
+
 (define (shuffle-vector vec)
   (define lst (vector->list vec))
   (define l2 (shuffle lst))
   (list->vector l2))
 
-(define (accumulate-fitness probabilities)
-  (let relative->absolute
-      ([payoffs probabilities] [so-far #i0.0])
-    (cond
-      [(empty? payoffs) '()]
-      [else (define nxt (+ so-far (first payoffs)))
-            (cons nxt (relative->absolute (rest payoffs) nxt))])))
-(define (randomise-s probabilities speed)
-  (define fitness (accumulate-fitness probabilities))
-  (for/list ([n (in-range speed)])
-    (define r (random))
-    (for/last ([p (in-naturals)]
-               [% (in-list fitness)]
-               #:final (< r %)) p)))
-
 (define (regenerate population rate)
   (define probabilities (payoff->fitness population))
-  (define substitutes (randomise-s probabilities rate))
+  (define substitutes (randomise-auto probabilities rate))
   (for ([i (in-range rate)]
         [auto (in-list substitutes)])
     (vector-set! population i
                  (vector-ref population auto)))
   (shuffle-vector population))
-
-(define (reset a)
-  (match-define (automaton pay initial cc cd dc dd) a)
-  (automaton 0 initial cc cd dc dd))
 
 (define (population-reset population)
   (for ([auto population]
@@ -116,14 +83,7 @@
 (define (average lst)
   (exact->inexact (/ (sum lst) (length lst))))
 
-(define (scan population)
-  (define p (vector->list population))
-  (foldl
-   (lambda (au h)
-     (hash-update h au add1 0))
-   (hash)
-   p))
-
+;; PLOT
 (define (population-mean->lines data)
   (define coors
     (for/list ([d (in-list data)]
@@ -157,6 +117,15 @@
               (population-mean->lines data))
         #:y-min 0 #:y-max (+ 5 reward) #:width 1200 #:height 800))
 
+;; SCAN
+(define (scan population)
+  (define p (vector->list population))
+  (foldl
+   (lambda (au h)
+     (hash-update h au add1 0))
+   (hash)
+   p))
+
 (define (sort-population p)
  (sort (hash->list (scan (vector-map reset p)))
        > #:key cdr))
@@ -168,25 +137,19 @@
     (define auto (vector-ref population i))
     (vector-set! population i (mutate auto))))
 
+;; MAIN
 (define (evolve population cycles speed mutation rounds delta mean-file rank-file p-file sim-id)
   (cond
     [(zero? cycles) (out-population sim-id (scan population) p-file)]
     [else
      (and (zero? (modulo cycles 100)) (print (number->string cycles)))
      (define p2 (match-population population rounds delta))
-;;     (print "matched\n")
      (define pp (population-payoffs p2))
-  ;;   (print "pp-ed\n")
      (define p3 (regenerate p2 speed))
-    ;; (print "regenerated\n")
      (define p4 (vector-map reset p3))
-     ;;(print "reset-ed\n")
      (and (zero? (modulo cycles 100)) (out-rank cycles (scan p4) rank-file))
-     ;;(print "out-ranked\n")
      (mutate-population p4 mutation)
-     ;;(print "mutated\n")
      (out-data mean-file (list (list (average pp))))
-     ;;(print "out-meaned\n")
      (evolve (vector-map round-auto p4) (- cycles 1)
              speed mutation rounds delta mean-file rank-file p-file sim-id)]))
 
@@ -198,7 +161,6 @@
      (define pp (population-payoffs p2))
      (define p3 (regenerate p2 speed))
      (define auto (vector-ref p3 0))
-     
 ;;     (and (zero? (modulo cycles 100)) (out-rank cycles (scan p3) rank-file))
      (mutate-population p3 mutation)    
 ;;     (out-data mean-file (list (list (average pp))))
@@ -211,9 +173,9 @@
 
 (define (main)
   (collect-garbage)
-;;  (define A (build-random-population N))
-  (define data (csvfile->list "p"))
-  (define A (resurrect-p data))
+  (define A (build-random-population N))
+;;  (define data (csvfile->list "p"))
+;;  (define A (resurrect-p data))
   (define MEAN (gen-name "mean" SIM-ID))
   (define RANK (gen-name "rank" SIM-ID))
   (time (evolve A CYCLES SPEED MUTATION ROUNDS DELTA MEAN RANK "p" SIM-ID))
