@@ -53,3 +53,5 @@ dm pdf nang bo me -> doi lai
 9. also, pd does not require an automaton structure but ndg does bc too many outcomes
 
 10. add delta to the output file name -> added
+
+11. add location to output file name ->added

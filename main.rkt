@@ -130,9 +130,6 @@
     (define auto (vector-ref population i))
     (vector-set! population i (mutate auto))))
 
-(define (gen-name name)
-  (format "/Users/linhchi.nguyen/Dropbox/pd-0118/~a~a~a"
-          (number->string SIM-ID) DELTAstr name))
 
 
 ;; MAIN
@@ -166,22 +163,27 @@
            (evolve-p (vector-map round-auto (vector-map reset p3)) (- cycles 1)
                    speed mutation))]))
 
+(define (gen-name location id name)
+  (format "~a~a~a~a"
+	(if (= location 1) OUTLABstr "")
+          (number->string id) DELTAstr name))
 
 (define (gen-pic-title)
   (format "ID = ~s, N = ~s, s = ~s, r = ~s, d = ~s, m = ~s" SIM-ID N SPEED ROUNDS DELTA MUTATION))
 
 (define (main)
   (collect-garbage)
-  (define POPU (format "/Users/linhchi.nguyen/Dropbox/pd-0118/~a~ap.txt" SIM-ID DELTAstr))
-  (define p-POPU (format "/Users/linhchi.nguyen/Dropbox/pd-0118/~a~ap.txt" (- SIM-ID 1) DELTAstr))
+  (define POPU
+(gen-name LOCATION SIM-ID "p.txt"))
+	(define p-POPU (gen-name LOCATION (- SIM-ID 1) "p.txt"))
   (define POPULATION
     (if (= SIM-ID 1)
         (build-random-population N)
         (resurrect-p (csvfile->list p-POPU))))
-  (define MEAN (gen-name "mean"))
-  (define RANK (gen-name "rank"))
+  (define MEAN (gen-name LOCATION SIM-ID "mean"))
+  (define RANK (gen-name LOCATION SIM-ID "rank"))
   (time (evolve POPULATION CYCLES SPEED MUTATION MEAN RANK POPU SIM-ID))
   (define DATA (csvfile->list MEAN))
-  (define PIC (gen-name "pic.pdf"))
+  (define PIC (gen-name LOCATION SIM-ID "pic.png"))
   (define TIT (gen-pic-title))
   (plot-mean (input->numbers DATA) DELTA ROUNDS PIC TIT))
