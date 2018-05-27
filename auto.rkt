@@ -1,4 +1,5 @@
 #lang racket
+(require "cons.rkt")
 (provide (all-defined-out))
 
 ;; AUTOMATON
@@ -58,7 +59,7 @@
        #:final (< r p)) s))
 
 ;; return details
-(define (interact-d au1 au2 rounds delta)
+(define (interact-d au1 au2)
   (match-define (automaton pay1 init1 cc1 cd1 dc1 dd1) au1)
   (match-define (automaton pay2 init2 cc2 cd2 dc2 dd2) au2)
   (define (what-next? action1 action2)
@@ -73,14 +74,14 @@
                [payoff1 pay1]
                [payoff2 pay2]
                [round-results '()])
-              ([_ (in-range rounds)])
+              ([_ (in-list DELTAS)])
       (match-define (list a1 a2)
                     (list (randomise current1) (randomise current2)))
       (match-define (cons n1 n2) (what-next? a1 a2))
       (match-define (cons pa1 pa2) (payoff a1 a2))
       (values n1 n2
-              (+ payoff1 (* pa1 (expt delta _)))
-              (+ payoff2 (* pa2 (expt delta _)))
+              (+ payoff1 (* pa1 _))
+              (+ payoff2 (* pa2 _))
               (cons (cons pa1 pa2) round-results)
               )))
   (values (reverse results)
@@ -88,7 +89,7 @@
           (automaton p2 init2 cc2 cd2 dc2 dd2)))
 
 ;; return short version of details
-(define (interact-ds au1 au2 rounds delta)
+(define (interact-ds au1 au2)
   (match-define (automaton pay1 init1 cc1 cd1 dc1 dd1) au1)
   (match-define (automaton pay2 init2 cc2 cd2 dc2 dd2) au2)
   (define (what-next? action1 action2)
@@ -103,14 +104,14 @@
                [payoff1 pay1]
                [payoff2 pay2]
                [round-results '()])
-              ([_ (in-range rounds)])
+              ([_ (in-list DELTAS)])
       (match-define (list a1 a2)
                     (list (randomise current1) (randomise current2)))
       (match-define (cons n1 n2) (what-next? a1 a2))
       (match-define (cons pa1 pa2) (payoff a1 a2))
       (values n1 n2
-              (+ payoff1 (* pa1 (expt delta _)))
-              (+ payoff2 (* pa2 (expt delta _)))
+              (+ payoff1 (* pa1 _))
+              (+ payoff2 (* pa2 _))
               (cons (cons pa1 pa2) round-results)
               )))
   (values (take (reverse results) 20)
@@ -118,7 +119,7 @@
    (automaton p2 init2 cc2 cd2 dc2 dd2)))
 
 ;; return no details on round results
-(define (interact au1 au2 rounds delta)
+(define (interact au1 au2)
   (match-define (automaton pay1 init1 cc1 cd1 dc1 dd1) au1)
   (match-define (automaton pay2 init2 cc2 cd2 dc2 dd2) au2)
   (define (what-next? action1 action2)
@@ -133,15 +134,15 @@
                [payoff1 pay1]
                [payoff2 pay2]
                [round-results '()])
-              ([_ (in-range rounds)])
+              ([_ (in-list DELTAS)])
       ; #:final (> (random) delta)
       (match-define (list a1 a2)
         (list (randomise current1) (randomise current2)))
       (match-define (cons n1 n2) (what-next? a1 a2))
       (match-define (cons pa1 pa2) (payoff a1 a2))
       (values n1 n2
-              (+ payoff1 (* pa1 (expt delta _)))
-              (+ payoff2 (* pa2 (expt delta _)))
+              (+ payoff1 (* pa1 _))
+              (+ payoff2 (* pa2 _))
               (cons (cons pa1 pa2) round-results)
               )))
   (values
@@ -152,7 +153,7 @@
 ;; helper of mutate, accommodate the flaw in floating numbers
 (define (random-decimal prob)
   (define n (inexact->exact (round (* prob 100))))
-  (if (zero? prob)
+  (if (zero? n)
       0
       (round2 (exact->inexact (/ (random n) 100)))))
 
